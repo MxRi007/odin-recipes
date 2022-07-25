@@ -1,0 +1,23 @@
+* {
+    font-family: Courier New, "Helvetica", sans-serif;
+    color: blueviolet;
+    background-color: rgb(247, 247, 88);
+}
+
+li {
+    color: rgb(255, 53, 53);
+}
+
+img {
+    width: 200px;
+    height: auto;
+    background-color: white;
+    border-style:double;
+    border-color: chartreuse;
+    border-width: 10px;
+}
+
+h2 {
+    font-style: italic;
+    color: aqua;
+}
